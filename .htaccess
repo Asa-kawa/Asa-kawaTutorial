@@ -1,3 +1,4 @@
+<Files>
 AuthUserFile /home/path../.htpasswd
 AuthGroupFile /dev/null
 AuthName "Input ID and Password."
