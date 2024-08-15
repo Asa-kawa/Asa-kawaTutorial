@@ -9,6 +9,32 @@
 #button {
     font-size: larger;
 }
+
 #close {
     font-size: larger;
+}
+
+#index {
+    font-size: larger;
+}
+
+.name {
+    padding: 10px 10px 10px 10px;
+}
+
+#aiueo {
+    font-size: 100px;
+}
+
+#aiueo.anim-active {
+    animation-name: animation;
+    animation-duration: 1ms;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animation {
+    100% {
+        transform: translateX(1000px);
+    }
 }
