@@ -14,5 +14,3 @@ document.getElementById("close").addEventListener("click", () => {
 document.getElementById("index").addEventListener("click", () => {
   open("https://asa-kawa.github.io/Asa-kawaIndex/")
 });
-
-document.getElementById()
