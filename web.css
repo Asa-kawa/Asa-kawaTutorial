@@ -6,21 +6,12 @@
     color:red
 }
 
-#button {
+.button {
     font-size: larger;
-    padding: 10px 10px 10px 10px;
-}
-
-#close {
-    font-size: larger;
-    
+    margin: 10px 0px 10px 0px;
 }
 
 #index {
-    font-size: larger;
-}
-
-.button {
     
 }
 
