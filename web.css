@@ -8,18 +8,20 @@
 
 #button {
     font-size: larger;
+    padding: 10px 10px 10px 10px;
 }
 
 #close {
     font-size: larger;
+    
 }
 
 #index {
     font-size: larger;
 }
 
-.name {
-    padding: 10px 10px 10px 10px;
+.button {
+    
 }
 
 #aiueo {
